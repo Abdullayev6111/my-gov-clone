@@ -1,0 +1,305 @@
+{
+  "header": {
+    "title1": "Unified interactive state",
+    "title2": "services portal",
+    "feedback": "Feedback",
+    "personal": "Personal cabinet"
+  },
+  "aside": {
+    "services": "Services",
+    "popular": "Popular services",
+    "fields": "Fields",
+    "payment": "Payment for services",
+    "taskView": "Check application",
+    "maps": "Location map",
+    "reyestr": "Unified register",
+    "composites": "Proactive and composite services",
+    "apps": "Mobile applications",
+    "support": "Help and support",
+    "participation": "Electronic participation",
+    "lifeEvents": "Life situations",
+    "faq": "Frequently asked questions",
+    "foreigners": "For foreign citizens",
+    "news": "News",
+    "duty": "State duties",
+    "downloadApp": "Install the application",
+    "asideFtitle1": "Use services quickly and easily",
+    "asideFtitle2": "with convenience"
+  },
+  "home": {
+    "documents1": "All your electronic documents",
+    "documents2": "in one place",
+    "fullInformation": "More information",
+    "privateMessages1": "Personal notifications",
+    "privateMessages2": "important dates and reminders",
+    "allServices": "All services",
+    "options": "Portal features",
+    "statistics": "Discover portal capabilities in numbers",
+    "statisticsText": "We regularly demonstrate growth and development through numbers. Our goal is to provide you with the most convenient and effective solutions.",
+    "detail": "Learn more",
+    "users": "Users",
+    "organiations": "Government organizations",
+    "introducedServices": "Introduced services",
+    "allInOne": "All government services in one application",
+    "allInOneDesc": "Online government services in your pocket! With our mobile application you can easily use electronic services, track and pay коммунal payments, fines, tax obligations, and receive electronic notifications in life situations",
+    "forUsers": "Service portal for citizens",
+    "onlinePay": "Online payment",
+    "app": "Mobile application",
+    "moreServices": "More services",
+    "notification": "Notifications",
+    "debate": "Discuss services",
+    "dataBase": "Document repository",
+    "scanForDownload": "Scan to download the application",
+    "lastChangedAt": "Last updated date",
+    "popular": "Popular"
+  },
+  "carousel": {
+    "item1": "Electronic power of attorney",
+    "item2": "Student payment contract",
+    "item3": "Traffic police fines",
+    "item4": "For familiar passengers",
+    "item5": "Public transport card",
+    "item6": "Kindergarten",
+    "item7": "Tint permit",
+    "item8": "Employment information",
+    "item9": "Income calculation",
+    "item10": "Credit history"
+  },
+  "industries": {
+    "btn": "All",
+    "item1": {
+      "title": "Healthcare",
+      "text1": "Temporary disability certificate",
+      "text2": "Qualification category of medical workers"
+    },
+    "item2": {
+      "title": "Employment and labor",
+      "text1": "Unemployment benefits",
+      "text2": "Documents required for employment"
+    },
+    "item3": {
+      "title": "Education",
+      "text1": "Foreign language proficiency assessment",
+      "text2": "State scholarships for bachelor students"
+    },
+    "item4": {
+      "title": "Social protection",
+      "text1": "Child benefits and financial assistance",
+      "text2": "Sanatorium vouchers for elderly and disabled"
+    },
+    "item5": {
+      "title": "Justice",
+      "text1": "Birth certificate",
+      "text2": "Marriage registration"
+    },
+    "item6": {
+      "title": "Ecology",
+      "text1": "Import/export of ozone-depleting substances",
+      "text2": "Environmental auditor certificate"
+    },
+    "item7": {
+      "title": "Subsidies",
+      "text1": "Student transportation subsidies",
+      "text2": "Mortgage loan subsidies"
+    },
+    "item8": {
+      "title": "Family and children",
+      "text1": "Kindergarten enrollment",
+      "text2": "Information on kindergarten payments"
+    },
+    "item9": {
+      "title": "Real estate",
+      "text1": "State registration of real estate",
+      "text2": "Construction start permit"
+    },
+    "item10": {
+      "title": "Citizenship",
+      "text1": "Permanent residence registration",
+      "text2": "Application for ID card"
+    },
+    "item11": {
+      "title": "Certificates",
+      "text1": "Death registration certificate",
+      "text2": "Criminal record clearance certificate"
+    },
+    "item12": {
+      "title": "State assets",
+      "text1": "Privatization of land plots",
+      "text2": "Privatization of state property"
+    },
+    "item13": {
+      "title": "Economy and business",
+      "text1": "Obtaining credit history",
+      "text2": "Credit agreement restriction"
+    },
+    "item14": {
+      "title": "Licensing",
+      "text1": "Obtaining employment confirmation",
+      "text2": "Information about certificates of legal entities"
+    },
+    "item15": {
+      "title": "Youth",
+      "text1": "Certificate from place of study",
+      "text2": "Reimbursement for international exam expenses"
+    },
+    "item16": {
+      "title": "Customs",
+      "text1": "International postal shipments for individuals",
+      "text2": "Electronic declaration of goods"
+    },
+    "item17": {
+      "title": "Transport",
+      "text1": "Issuance of driver’s license",
+      "text2": "Registration of new vehicles"
+    },
+    "item18": {
+      "title": "Information and communication",
+      "text1": "IMEI registration",
+      "text2": "Sending postal mail"
+    },
+    "item19": {
+      "title": "Geology",
+      "text1": "Import/export of ozone-depleting products",
+      "text2": "Import and export of wild animals"
+    },
+    "item20": {
+      "title": "Pension",
+      "text1": "Applying for pension appointment",
+      "text2": "Addresses of pension fund offices"
+    },
+    "item21": {
+      "title": "Culture, tourism and sport",
+      "text1": "Admission to sports schools",
+      "text2": "Issuance of sports passports"
+    },
+    "item22": {
+      "title": "Utilities",
+      "text1": "Utility payments",
+      "text2": "Connection to electricity grid"
+    },
+    "item23": {
+      "title": "Taxes",
+      "text1": "Salary information",
+      "text2": "Self-employed persons"
+    },
+    "item24": {
+      "title": "In test mode",
+      "text1": "Annual income declaration",
+      "text2": ""
+    }
+  },
+  "situations": {
+    "item1": {
+      "title": "Starting a family",
+      "text": "Information on procedures related to marriage and family relations"
+    },
+    "item2": {
+      "title": "Birth of a child",
+      "text": "Procedures related to pregnancy registration, as well as information about child health and vaccinations"
+    },
+    "item3": {
+      "title": "Education",
+      "text": "Procedures and services related to enrolling children in educational institutions"
+    },
+    "item4": {
+      "title": "Loss of passport",
+      "text": "Procedures for restoring a lost passport, including fines and requirements for returning found documents."
+    },
+    "item5": {
+      "title": "Labor relations",
+      "text": "Information on labor relations, including employment contracts and job placement"
+    },
+    "item6": {
+      "title": "Utilities",
+      "text": "Information and services on connecting facilities to utilities and maintaining meters"
+    },
+    "item7": {
+      "title": "State registration of entrepreneurs",
+      "text": "Information on registration of business entities, choosing a legal form and preparation for starting activities."
+    },
+    "item8": {
+      "title": "For vehicle owners",
+      "text": "Procedures related to obtaining a driver’s license and additional conveniences"
+    },
+    "item9": {
+      "title": "Social protection of persons with disabilities",
+      "text": "Procedures for protecting public health, preventing disability and creating conditions"
+    },
+    "item10": {
+      "title": "Buying or building a home",
+      "text": "Information and services for building, purchasing or registering housing"
+    },
+    "item11": {
+      "title": "Receiving benefits",
+      "text": "Procedures for assigning age-related benefits and other opportunities for pensioners"
+    }
+  },
+  "services": {
+    "item1": {
+      "title": "Personal cabinet",
+      "text": "View and update your personal data in the electronic government system"
+    },
+    "item2": {
+      "title": "Digital government services",
+      "text": "Online submission of applications for government services, tracking their status and receiving results"
+    },
+    "item3": {
+      "title": "Notifications",
+      "text": "Tracking the validity of personal documents, receiving service alerts, as well as SMS and PUSH notifications."
+    },
+    "item4": {
+      "title": "Evaluation of government services",
+      "text": "Assess the quality of provided government services, leave feedback and suggestions"
+    },
+    "item5": {
+      "title": "Online payments",
+      "text": "Make online payments for government services, utilities and other types of payments"
+    },
+    "item6": {
+      "title": "Check taxes and fines",
+      "text": "Check and pay taxes, restrictions, alimony and other fines registered under a citizen’s name"
+    }
+  },
+  "servicesList": {
+    "item1": "Certificate of absence of tax debt",
+    "item2": "Information on accrued salary (monthly)",
+    "item3": "Kindergarten enrollment",
+    "item4": "Information on place of residence",
+    "item5": "Persons registered at the place of residence",
+    "item6": "Obtaining credit history",
+    "item7": "Registration of self-employed persons",
+    "item8": "Extract from employment record book",
+    "item9": "Obtaining electronic power of attorney for vehicle management",
+    "item10": "Assignment of child benefits and financial assistance"
+  },
+  "footer": {
+    "question": "Did you like the content on this page",
+    "yes": "Yes",
+    "no": "No",
+    "personLiked": "people found the content on this page useful",
+    "portal": "Unified Interactive State Services Portal of the Republic of Uzbekistan",
+    "portalDesc1": "Attention! If you find an error in the text, select it and to notify the administration",
+    "portalDesc2": "press Ctrl+Enter",
+    "data": "Information",
+    "statitics": "Statistics",
+    "portalMission": "Mission of the Unified Portal",
+    "organizitaion": "Government organization",
+    "wifiZones": "Free Wi-Fi zones",
+    "faq": "Frequently asked questions",
+    "forUsers": "For users",
+    "physicalPerson": "For individuals",
+    "legalPerson": "For legal entities",
+    "foreigners": "For foreign citizens",
+    "instruction": "Official instructions",
+    "support": "Contact and support",
+    "contact": "Contact",
+    "feedback": "Feedback",
+    "allQuestions": "general questions",
+    "complaints": "Suggestions and complaints",
+    "againCorruption": "Online appeal regarding corruption",
+    "privacyPolicy": "Privacy policy",
+    "termsOfUse": "Terms of use",
+    "sitemap": "Portal sitemap",
+    "useai": "Use of artificial intelligence"
+  }
+}

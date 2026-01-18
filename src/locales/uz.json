@@ -1,0 +1,305 @@
+{
+  "header": {
+    "title1": "Yagona interaktiv davlat",
+    "title2": "xizmatlari portali",
+    "feedback": "Qayta aloqa",
+    "personal": "Shaxsiy kabinet"
+  },
+  "aside": {
+    "services": "Xizmatlar",
+    "popular": "Ommabop xizmatlar",
+    "fields": "Sohalar",
+    "payment": "Sohalar uchun to'lov",
+    "taskView": "Arizani tekshirish",
+    "maps": "Joylar xaritasi",
+    "reyestr": "Yagona reyestr",
+    "composites": "Proaktiv va kompozit xizmatlar",
+    "apps": "Mobil ilovalar",
+    "support": "Yordam va qo'llab-quvvatlash",
+    "participation": "Elektron ishtirok",
+    "lifeEvents": "Hayotiy vaziyatlar",
+    "faq": "Ko'p beriladigan savollar",
+    "foreigners": "Xorij fuqarolari uchun",
+    "news": "Yangiliklar",
+    "duty": "Davlat bojlari",
+    "downloadApp": "Ilovani o'rnating",
+    "asideFtitle1": "Xizmatlardan tezda va oson",
+    "asideFtitle2": "foydalanasiz"
+  },
+  "home": {
+    "documents1": "Sizning barcha elektron hujjatlaringiz",
+    "documents2": "bir joyda",
+    "fullInformation": "Batafsil ma'lumot",
+    "privateMessages1": "Shaxsiy xabarnomalar",
+    "privateMessages2": "muhim sana va eslatmalar",
+    "allServices": "Barcha xizmatlar",
+    "options": "Portal imkoniyatlari",
+    "statistics": "Portal imkoniyatlari raqamlarda kashf eting",
+    "statisticsText": "Biz muntazam ravishda o‘sish va rivojlanishni raqamlar orqali namoyon etamiz. Maqsadimiz – sizga eng qulay va samarali yechimlarni taqdim etish.",
+    "detail": "Batafsil tanishish",
+    "users": "Foydalanuvchilar",
+    "organizations": "Davlat tashkilotlari",
+    "introducedServices": "Joriy qilingan xizmatlar",
+    "allInOne": "Barcha davlat xizmatlari bitta ilovada",
+    "allInOneDesc": "Onlayn davlat xizmatlari hamyoningizda! Mobil ilovamiz yordamida elektron xizmatlardan oson foydalanishingiz, kommunal xizmatlar, jarimalar, soliq majburiyatlarini kuzatishingiz va to‘lashingiz, hayotiy vaziyatlarda elektron xabarnomalar olishingiz mumkin",
+    "forUsers": "Fuqarolar uchun xizmatlar portali",
+    "onlinePay": "Onlayn to'lov",
+    "app": "Mobil ilova",
+    "moreServices": "Ko'proq xizmatlar",
+    "notification": "Bildirishnomasi",
+    "debate": "Xizmatlarni muhokama qilish",
+    "dataBase": "Hujjatlar ombori",
+    "scanForDownload": "Ilovani yuklab olish uchun skanerlang",
+    "lastChangedAt": "Oxirgi o'zgartirilgan sana",
+    "popular": "Ommabop"
+  },
+  "carousel": {
+    "item1": "Elektron ishonchnoma",
+    "item2": "Talabalar to'lov shartnomasi",
+    "item3": "DYHXX jarimalari",
+    "item4": "Yo'lovchi tanishlarga",
+    "item5": "Ijtimoiy transport kartasi",
+    "item6": "Bog'cha",
+    "item7": "Tanirovka olish",
+    "item8": "Mehnat faoliyati ma'lumoti",
+    "item9": "Daromadni hisoblash",
+    "item10": "Kredit tarixi"
+  },
+  "industries": {
+    "btn": "Barchasi",
+    "item1": {
+      "title": "Sog'liqni saqlash",
+      "text1": "Vaqtincha mehnatga layoqatsizlik varaqasi",
+      "text2": "Tibbiyot xodimlarining malaka toifasi"
+    },
+    "item2": {
+      "title": "Bandlik va mehnat",
+      "text1": "Ishsizlik nafaqasi",
+      "text2": "Ishga joylashishga kerakli hujjatlar"
+    },
+    "item3": {
+      "title": "Ta'lim",
+      "text1": "Chet tilini bilish darajasini aniqlash",
+      "text2": "Bakalavriat talabalari uchun davlat stipendiyalari"
+    },
+    "item4": {
+      "title": "Ijtimoiy himoya",
+      "text1": "Bolalar nafaqasi va moddiy yordam olish",
+      "text2": "Keksalar va nogironlar uchun sanatoriyga yo‘llanma"
+    },
+    "item5": {
+      "title": "Adliya",
+      "text1": "Tug‘ilganlik guvohnomasi",
+      "text2": "Nikohni qayd etish"
+    },
+    "item6": {
+      "title": "Ekologiya",
+      "text1": "Ozon qatlamini buzuvchi moddalar eksporti/importi",
+      "text2": "Ekologik auditorning sertifikati"
+    },
+    "item7": {
+      "title": "Subsidiya",
+      "text1": "O‘quvchilarning transport xarajatlarini qoplash subsidiyasi",
+      "text2": "Ipoteka krediti uchun subsidiya"
+    },
+    "item8": {
+      "title": "Oila va bolalar",
+      "text1": "Bolani bogʼchaga joylashtirish",
+      "text2": "Bog'cha to‘lovlari to‘g‘risida ma'lumot"
+    },
+    "item9": {
+      "title": "Ko'chmas mulk",
+      "text1": "Ko‘chmas mulkni davlat ro‘yxatidan o‘tkazish",
+      "text2": "Qurilishni boshlash uchun ruxsatnoma"
+    },
+    "item10": {
+      "title": "Fuqarolik",
+      "text1": "Yashash joyiga doimiy ro'yxatga turish",
+      "text2": "ID karta olishga ariza yuborish"
+    },
+    "item11": {
+      "title": "Ma'lumotnomalar",
+      "text1": "O'lim ro'yxatga olinganligi ma'lumotnomasi",
+      "text2": "Sudlanmaganlik ma’lumotnomasi"
+    },
+    "item12": {
+      "title": "Davlat aktivlari",
+      "text1": "Yer uchastkasini xususiylashtirish",
+      "text2": "Davlat mulkini xususiylashtirish"
+    },
+    "item13": {
+      "title": "Iqtisodiyot va biznes",
+      "text1": "Kredit tarixini olish",
+      "text2": "Kredit bitimini tuzishga taqiq"
+    },
+    "item14": {
+      "title": "Litsenziya",
+      "text1": "Mehnat faoliyati tasdiqnomasini olish",
+      "text2": "Yuridik shaxslarning sertifikatlari haqida ma'lumot"
+    },
+    "item15": {
+      "title": "Yoshlar",
+      "text1": "O'qish joyidan ma'lumotnoma olish",
+      "text2": "Xalqaro imtihon tizimlari bo'yicha xarajatlarni qoplash"
+    },
+    "item16": {
+      "title": "Bojxona",
+      "text1": "Jismoniy shaxsga kelgan xalqaro pochta jo‘natmalari",
+      "text2": "Tovarlarni elektron deklaratsiyalash"
+    },
+    "item17": {
+      "title": "Transport",
+      "text1": "Haydovchilik guvohnomasini rasmiylashtirish",
+      "text2": "Yangi transport vositasini ro‘yxatdan o‘tkazish"
+    },
+    "item18": {
+      "title": "Axborot va aloqa",
+      "text1": "IMEI raqamni ro‘yxatdan o‘tkazish",
+      "text2": "Pochta yuborish"
+    },
+    "item19": {
+      "title": "Geologiya",
+      "text1": "Ozonni buzuvchi mahsulotlarni import/eksport qilish",
+      "text2": "Yovvoyi hayvonlarni olib kirish va chetga olib chiqish"
+    },
+    "item20": {
+      "title": "Pensiya",
+      "text1": "Pensiya tayinlashga ariza berish",
+      "text2": "Pensiya jamg‘armasi bo‘limlari manzillari"
+    },
+    "item21": {
+      "title": "Madaniyat, turizm va sport",
+      "text1": "Sport maktablariga o‘qishga kirish",
+      "text2": "Sport pasportlarini berish"
+    },
+    "item22": {
+      "title": "UJKX",
+      "text1": "Kommunal to‘lovlar",
+      "text2": "Elektr tarmog‘iga ulanish"
+    },
+    "item23": {
+      "title": "Soliqlar",
+      "text1": "Ish haqi ma'lumotlari",
+      "text2": "O‘zini o‘zi band qilgan shaxslar"
+    },
+    "item24": {
+      "title": "Sinov tartibida",
+      "text1": "Yillik daromadlar deklaratsiyasi",
+      "text2": ""
+    }
+  },
+  "situations": {
+    "item1": {
+      "title": "Oila qurish",
+      "text": "Nikoh va oilaviy munosabatlar bilan bog‘liq protseduralar to‘g‘risidagi ma'lumotlar"
+    },
+    "item2": {
+      "title": "Bola tug‘ilishi",
+      "text": "Homiladorlikni ro'yxatga olish bilan bog'liq protseduralar, shuningdek, bola salomatligi va emlashlar haqida ma'lumotlar"
+    },
+    "item3": {
+      "title": "Ta'lim",
+      "text": "Bolalarni ta'lim muassasalariga joylashtirish bilan bog‘liq protseduralar va xizmatlar"
+    },
+    "item4": {
+      "title": "Pasport yo‘qolishi",
+      "text": "Pasport yo‘qolganda uni tiklash tartib-qoidalari, shu jumladan jarimalar va topilgan hujjatni qaytarish talablari."
+    },
+    "item5": {
+      "title": "Mehnat munosabatlari",
+      "text": "Mehnat munosabatlari to‘g‘risidagi ma'lumotlar, shu jumladan, mehnat shartnomalarini tuzish va ishga joylashish"
+    },
+    "item6": {
+      "title": "Kommunal xizmatlar",
+      "text": "Ob'ektni kommunal xizmatlarga ulash va hisoblagichlarni xizmat ko'rsatish bo'yicha ma'lumotlar va xizmatlar"
+    },
+    "item7": {
+      "title": "Tadbirkorlik subyektlarini davlat ro‘yxatidan o‘tkazish",
+      "text": "Tadbirkorlik subyektlarini ro‘yxatdan o‘tkazish, tashkiliy-huquqiy shaklni tanlash va ishga tushirishga tayyorgarlik ko‘rish to‘g‘risidagi ma’lumotlar."
+    },
+    "item8": {
+      "title": "Avtotransport vositalari egalariga",
+      "text": "Haydovchilik guvohnomasini rasmiylashtirish bilan bog‘liq tartib-taomillar va qo‘shimcha qulayliklar"
+    },
+    "item9": {
+      "title": "Nogironligi bo‘lgan fuqarolarni ijtimoiy himoya qilish",
+      "text": "Aholi salomatligini saqlash, nogironlikni oldini olish va sharoit yaratish bo‘yicha protseduralar"
+    },
+    "item10": {
+      "title": "Uy sotib olish yoki qurish",
+      "text": "Uy qurish, sotib olish yoki ro‘yxatdan o‘tkazish bo‘yicha ma'lumotlar va xizmatlar"
+    },
+    "item11": {
+      "title": "Nafaqa olish",
+      "text": "Yoshga doir nafaqa tayinlash va nafaqadagi fuqarolar uchun boshqa imkoniyatlar bilan bog‘liq protseduralar"
+    }
+  },
+  "services": {
+    "item1": {
+      "title": "Shaxsiy kabinet",
+      "text": "Elektron hukumat tizimidagi shaxsiy ma’lumotlaringizni ko‘rish va zaruratga ko‘ra yangilash"
+    },
+    "item2": {
+      "title": "Raqamli davlat xizmatlari",
+      "text": "Davlat xizmatlarini olish uchun arizalarni onlayn to‘ldirish, holatini kuzatish va natijasini olish"
+    },
+    "item3": {
+      "title": "Xabarnomalar",
+      "text": "Shaxsiy hujjatlaringiz amal qilish muddatini kuzatish, xizmatlar bo‘yicha ogohlantirish va SMS hamda PUSH xabarnomalarni olish."
+    },
+    "item4": {
+      "title": "Davlat xizmatlarini baholash",
+      "text": "Ko‘rsatilgan davlat xizmatlarining sifatini baholash, fikr-mulohazalar qoldirish va takliflar bildirish"
+    },
+    "item5": {
+      "title": "Onlayn to‘lovlar",
+      "text": "Davlat xizmatlari, kommunal va boshqa turdagi to‘lovlarni onlayn tarzda amalga oshirish"
+    },
+    "item6": {
+      "title": "Soliq va jarimalarni tekshirish",
+      "text": "Fuqaro nomiga rasmiylashtirilgan soliq, ta'qiq, aliment va boshqa jarimalarni tekshirish hamda to'lash"
+    }
+  },
+  "servicesList": {
+    "item1": "Soliqdan qarzi mavjud emasligi haqida ma'lumotnoma",
+    "item2": "Hisoblangan ish haqi (oylik) ma'lumotlari",
+    "item3": "Bolani bog‘chaga joylashtirish",
+    "item4": "Yashash joyi bo‘yicha ma'lumot",
+    "item5": "Yashash joyida ro'yxatdan o'tgan shaxslar",
+    "item6": "Kredit tarixini olish",
+    "item7": "O‘zini o‘zi band qilgan shaxslarni ro‘yxatdan o‘tkazish",
+    "item8": "Mehnat daftarchasidan ko'chirma",
+    "item9": "Avtotransport boshqaruvi uchun elektron ishonchnoma olish",
+    "item10": "Bolalar nafaqasi va moddiy yordam tayinlash"
+  },
+  "footer": {
+    "question": "Sahifadagi kontent sizga ma'qul keldimi",
+    "yes": "Ha",
+    "no": "Yo'q",
+    "personLiked": "kishi bu sahifadagi kontentni ma'qul deb topdi",
+    "portal": "O‘zbekiston Respublikasi Yagona interaktiv davlat xizmatlari portali",
+    "portalDesc1": "Diqqat! Agar matnda xato topsangiz, uni tanlang va ma'muriyatga xabar berish uchun",
+    "portalDesc2": "Ctrl+Enter tugmalarini bosing",
+    "data": "Ma'lumot",
+    "statitics": "Statistika",
+    "portalMission": "Yagona portal missiyasi",
+    "organizitaion": "Davlat tashkiloti",
+    "wifiZones": "Bepul wifi zonalari",
+    "faq": "Ko'p beriladigan savollar",
+    "forUsers": "Foydalanuvchilar uchun",
+    "physicalPerson": "Jismoniy shaxslar uchun",
+    "legalPerson": "Yuridik shaxslar uchun",
+    "foreigners": "Xorij fuqarolari uchun",
+    "instruction": "Rasmiy yo'riqnomalar",
+    "support": "Aloqa va qo'llab-quvvatlash",
+    "contact": "Bog'lanish",
+    "feedback": "Qayta aloqa",
+    "allQuestions": "umumiy savollar",
+    "complaints": "Takliflar va shikoyatlar",
+    "againCorruption": "Ko'rrupsiya tog'risida onlayn murojaat",
+    "privacyPolicy": "Maxfiylik siyosati",
+    "termsOfUse": "Foydalanish shartlari",
+    "sitemap": "Portal xaritasi",
+    "useai": "Sun'iy intellektdan foydalanish"
+  }
+}

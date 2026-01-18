@@ -14,6 +14,7 @@ import LifeSituations from './pages/LifeSituations';
 import Faq from './pages/Faq';
 import ForForeigners from './pages/ForForeigners';
 import StateDuty from './pages/StateDuty';
+import News from './pages/News';
 
 const App = () => {
   return (
@@ -32,6 +33,7 @@ const App = () => {
         <Route path="/e-participation" element={<Participation />} />
         <Route path="/life-situations" element={<LifeSituations />} />
         <Route path="/faq" element={<Faq />} />
+        <Route path="/news" element={<News />} />
         <Route path="/for-foreigners" element={<ForForeigners />} />
         <Route path="/state-duty" element={<StateDuty />} />
       </Route>
